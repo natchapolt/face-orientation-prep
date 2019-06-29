@@ -1,6 +1,6 @@
 aniso8601==7.0.0
 Click==7.0
-cmake==3.14.4
+cmake==3.13.3
 cycler==0.10.0
 decorator==4.4.0
 dlib==19.17.0
