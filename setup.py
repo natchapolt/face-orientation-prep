@@ -25,7 +25,7 @@ setuptools.setup(
         "gunicorn==19.9.0",
         "imageio==2.5.0",
         "itsdangerous==1.1.0",
-        "Jinja2==2.10.1",
+        "Jinja2==2.11.3",
         "kiwisolver==1.1.0",
         "MarkupSafe==1.1.1",
         "matplotlib==3.1.0",
