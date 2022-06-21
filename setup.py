@@ -30,7 +30,7 @@ setuptools.setup(
         "MarkupSafe==1.1.1",
         "matplotlib==3.1.0",
         "networkx==2.3",
-        "numpy==1.16.4",
+        "numpy==1.22.0",
         "opencv-contrib-python==4.1.0.25",
         "Pillow==6.0.0",
         "pyparsing==2.4.0",
